@@ -62,3 +62,9 @@ Topics Covered:-
 - Update document
 - Replace document
 - Delete document
+
+## Online Lectures
+- [Link1](https://www.youtube.com/watch?v=URXA_2HV61s&ab_channel=PanacloudServerlessSaaSTraining)
+- [Link2](https://www.facebook.com/zeeshanhanif/videos/10224681883899372/)
+- [Link3](https://www.youtube.com/watch?v=ysEQiXY9ozM&ab_channel=PanacloudServerlessSaaSTraininginUrdu)
+- [Link4](https://www.facebook.com/zeeshanhanif/videos/10224690706039920/)
