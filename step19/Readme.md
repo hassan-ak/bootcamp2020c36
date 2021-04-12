@@ -24,3 +24,16 @@ Steps:
 - Write and Run Node Programs:
 - node step0-create-database
 - Do the same with all the nine steps
+
+Topics Covered:- 
+- Create database
+- Create database key
+- Create container
+- Create index
+- Create document
+- Create multiple documents
+- Retrive document by ref
+- Retrive document by index
+- Update document
+- Replace document
+- Delete document
