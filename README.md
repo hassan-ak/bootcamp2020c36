@@ -37,7 +37,7 @@ FaunaDB Overview:
 - [Install DotEnv](https://www.npmjs.com/package/dotenv)
 - [We will follow this tutorial](https://docs.fauna.com/fauna/current/tutorials/crud)
 
-Steps:
+Steps to Follow:
 - [Signup for FaunaDB Service](https://dashboard.fauna.com/accounts/register)
 - Create a Project Directory
 - npm init
@@ -49,3 +49,16 @@ Steps:
 - Write and Run Node Programs:
 - node step0-create-database
 - Do the same with all the nine steps
+
+Topics Covered:- 
+- Create database
+- Create database key
+- Create container
+- Create index
+- Create document
+- Create multiple documents
+- Retrive document by ref
+- Retrive document by index
+- Update document
+- Replace document
+- Delete document
